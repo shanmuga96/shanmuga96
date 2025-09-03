@@ -10,13 +10,13 @@ Demonstrated success in enhancing user experiences for critical applications, in
 
 ### 🛠️ Skills & Proficiencies
 
-- **Languages:** JavaScript, TypeScript, Node.js, Java, C, C++, Perl, PowerShell, Bash
+- **Languages:** JavaScript, TypeScript, Node.js, Java, GraphQL, C, C++, Perl, PowerShell, Bash
 - **Frameworks & Libraries:** Express.js, Spring Boot, React.js, Angular, Redux Saga
-- **Web Technologies:** HTML5, CSS
-- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Web Technologies:** HTML5, CSS3
+- **Databases:** MongoDB, MySQL, PostgreSQL, REDIS
 - **Cloud Platforms:** AWS (EC2, S3, SSM, PM2), Azure (MFA, Microsoft Authenticator), Google Cloud Platform (API integrations, console operations)
 - **CI/CD & DevOps:** Git, Bitbucket, GitLab, Jenkins, Harness, Docker
-- **Testing:** Jest, JUnit5
+- **Testing:** Jest, JUnit5, Mocha
 - **Monitoring:** Grafana log monitoring
 - **Other:** RESTful API integration, Containerization, Agile methodologies
 
@@ -60,9 +60,11 @@ KPR Institute of Engineering and Technology, Coimbatore, India
 
 ### 📚 Relevant Coursework & Certifications
 
+- React Basic and JavaScript Basic (Hackerrank)
 - Programming in C and Core Java (NIIT)
 - Fundamentals of C, C++, and Data Structures (Fine Mind)
-- Technical Training Program (Triton IT Solutions)
+- HTML CSS Project (HCL GUVI)
+- Learning GraphQL (LinkedIn)
 - OWASP Top 10 Web Application Security for Absolute Beginners (Udemy)
 
 ---

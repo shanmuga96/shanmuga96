@@ -2,7 +2,7 @@
 
 ### 🚀 Professional Summary
 
-Dynamic, proactive, and passionate Full Stack Developer with over 7 years of experience delivering robust, scalable web applications. Proficient across the entire Software Development Life Cycle (SDLC), from in-depth analysis and innovative design through seamless development, rigorous testing, and ongoing maintenance, all within Agile environments.
+Dynamic, proactive, and passionate Full Stack Developer with over 8 years of experience delivering robust, scalable web applications. Proficient across the entire Software Development Life Cycle (SDLC), from in-depth analysis and innovative design through seamless development, rigorous testing, and ongoing maintenance, all within Agile environments.
 
 Demonstrated success in enhancing user experiences for critical applications, including municipal platforms for Dutch Gementees and enterprise solutions for leading global clients. Adaptable and effective in multicultural teams, with beginner-level Dutch language proficiency. Skilled at quickly understanding project requirements and excelling in high-pressure, multi-tasking scenarios.
 
@@ -24,9 +24,13 @@ Demonstrated success in enhancing user experiences for critical applications, in
 
 ### 💼 Professional Experience
 
+**Senior Full Stack Developer**
+_Telepresenz®, Leiden, The Netherlands_
+_December 2025 – Present_
+
 **Full Stack Developer**  
 _Ease2pay B.V., Rotterdam, The Netherlands_  
-_July 2024 – Present_
+_July 2024 – July 2025_
 
 - Contributed to the development and enhancement of the Book and Park platform [Parkeren Reserveren Rotterdam], a municipal parking garage management solution used by multiple Dutch Gementees.
 - Improved UI/UX, implemented accessibility and SEO standards, and developed backend features in Java Spring Boot to support flexible pricing and service efficiency for garage owners.

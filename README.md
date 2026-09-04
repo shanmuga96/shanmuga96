@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanmuga96&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/shanmugaperumal-s-b38493147"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/shanmugaperumal-s-b38493147](https://www.linkedin.com/in/shanmugaperumal-seenivasan-b38493147/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@shanmugaperumal"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
 </p>
 

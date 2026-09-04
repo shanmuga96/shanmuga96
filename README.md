@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanmuga96&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="[https://www.linkedin.com/in/shanmugaperumal-s-b38493147](https://www.linkedin.com/in/shanmugaperumal-seenivasan-b38493147/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shanmugaperumal-seenivasan-b38493147"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@shanmugaperumal"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
 </p>
 
@@ -49,16 +49,10 @@ I write — technical breakdowns and personal essays on [Medium](https://medium.
 
 ### 📈 GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanmuga96&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+<p align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmuga96&hide_border=true" alt="streak stats" height="165"/>
 </p>
 
 ---
 
 <p align="center"><i>Thanks for stopping by — always happy to talk shop, trade project ideas, or compare notes on mentoring devs.</i></p>
-
-<!---
-shanmuga96/shanmuga96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

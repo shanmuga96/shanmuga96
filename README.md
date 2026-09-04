@@ -1,100 +1,62 @@
-## 👋 Hi there, I'm Shanmugaperumal S
+<h1 align="center">Hi, I'm Shan 👋</h1>
+<h3 align="center">Senior Full Stack Developer · JavaScript/TypeScript Ecosystem · The Netherlands 🇳🇱</h3>
 
-### 🚀 Professional Summary
-
-Dynamic, proactive, and passionate Full Stack Developer with over 8 years of experience delivering robust, scalable web applications. Proficient across the entire Software Development Life Cycle (SDLC), from in-depth analysis and innovative design through seamless development, rigorous testing, and ongoing maintenance, all within Agile environments.
-
-Demonstrated success in enhancing user experiences for critical applications, including municipal platforms for Dutch Gementees and enterprise solutions for leading global clients. Adaptable and effective in multicultural teams, with beginner-level Dutch language proficiency. Skilled at quickly understanding project requirements and excelling in high-pressure, multi-tasking scenarios.
-
----
-
-### 🛠️ Skills & Proficiencies
-
-- **Languages:** JavaScript, TypeScript, Node.js, Java, GraphQL, C, C++, Perl, PowerShell, Bash
-- **Frameworks & Libraries:** Express.js, Spring Boot, React.js, Angular, Redux Saga
-- **Web Technologies:** HTML5, CSS3
-- **Databases:** MongoDB, MySQL, PostgreSQL, REDIS
-- **Cloud Platforms:** AWS (EC2, S3, SSM, PM2), Azure (MFA, Microsoft Authenticator), Google Cloud Platform (API integrations, console operations)
-- **CI/CD & DevOps:** Git, Bitbucket, GitLab, Jenkins, Harness, Docker
-- **Testing:** Jest, JUnit5, Mocha
-- **Monitoring:** Grafana log monitoring
-- **Other:** RESTful API integration, Containerization, Agile methodologies
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shanmuga96&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/shanmugaperumal-s-b38493147"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@shanmugaperumal"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
+</p>
 
 ---
 
-### 💼 Professional Experience
+### About me
 
-**Senior Full Stack Developer**
-_Telepresenz®, Leiden, The Netherlands_
-_December 2025 – Present_
+I've spent 8+ years building web applications end-to-end — from municipal platforms used by Dutch municipalities to enterprise tools for global clients. I currently work as a **Senior Full Stack Developer at Telepresenz**, sitting close to the CTO on core platform architecture.
 
-**Full Stack Developer**  
-_Ease2pay B.V., Rotterdam, The Netherlands_  
-_July 2024 – July 2025_
+What I actually enjoy, beyond shipping features:
+- 🚀 **Taking initiative** — I'd rather propose the fix than wait to be assigned it
+- 🧭 **Simplifying processes** — turning tribal knowledge into documented, repeatable systems for the whole team
+- 🌱 **Mentoring juniors** — coaching is one of the parts of the job I get the most out of
+- 🛠️ **Building something unique** — side projects exist so I can build things without a backlog telling me no
 
-- Contributed to the development and enhancement of the Book and Park platform [Parkeren Reserveren Rotterdam], a municipal parking garage management solution used by multiple Dutch Gementees.
-- Improved UI/UX, implemented accessibility and SEO standards, and developed backend features in Java Spring Boot to support flexible pricing and service efficiency for garage owners.
-- **Technologies Used:** AngularJS, TypeScript, Java Spring Boot, MySQL, GitLab, Grafana
-
-**Full Stack Developer**  
-_Basis Cloud Solutions Pvt. Ltd._  
-_June 2018 – June 2024_
-
-- **Booking.com, Amsterdam, The Netherlands** [October 2022 – December 2023]  
-  Worked as a Full Stack Developer, managing and executing multiple projects for Booking.com, focusing on scalable, high-performance solutions.  
-  **Technologies Used:** React JS, TypeScript, Perl, MySQL, Jenkins, GitLab, Grafana
-
-- **Automation Framework and Agent Development** [November 2021 – September 2022]  
-  Built a web-based application for a leading pharmaceutical industry client in the USA, focusing on automation and workflow efficiency.  
-  **Technologies Used:** Node.js, Java, Spring Boot, React, MongoDB, React Flow, Jenkins, Git, Bitbucket
-
-- **DQ (Data Quality Platform)** [May 2021 – November 2021]  
-  Developed a product designed to ensure enterprise data quality and integrity.  
-  **Technologies Used:** Java, Spring Boot, Maven, log4j, React, MySQL, Git, Bitbucket
+📍 Currently open to conversations about **Senior/Staff Full Stack roles** in the Netherlands (Randstad) — feel free to reach out on LinkedIn.
 
 ---
 
-### 🎓 Education
+### 🔭 What I'm working on
 
-**B.E. in Electrical and Electronics Engineering**  
-KPR Institute of Engineering and Technology, Coimbatore, India  
-08/2014 – 05/2018
-
----
-
-### 📚 Relevant Coursework & Certifications
-
-- React Basic and JavaScript Basic (Hackerrank)
-- Programming in C and Core Java (NIIT)
-- Fundamentals of C, C++, and Data Structures (Fine Mind)
-- HTML CSS Project (HCL GUVI)
-- Learning GraphQL (LinkedIn)
-- OWASP Top 10 Web Application Security for Absolute Beginners (Udemy)
+- **[Leaves & Lines](https://github.com/shanmuga96/shanmugaperumal.com)** — my personal site, pulling together technical writing, essays, and Tamil poetry into one place. Static, fast, no framework bloat.
+- **[BuzzOrders](https://github.com/shanmuga96/BuzzOrders)** — a full-stack PWA for in-theatre food ordering (React + Vite + serverless Firebase/Node backend), built to see how far a lean stack can go for a real-world ordering flow.
+- At work: platform-level features around multi-tenant account access and localization — the kind of infrastructure work that's invisible when it works and very visible when it doesn't.
 
 ---
 
-### 🏆 Achievements
+### 🛠️ Tech I work with
 
-- Awarded as Consistent Contributor for the year 2020
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,mongodb,mysql,postgres,redis,aws,gcp,docker,git,jenkins,graphql,java" />
+</p>
 
----
-
-### 🌍 Additional Information
-
-- Hands-on experience supporting applications in cloud and hybrid environments.
-- Strength in collaborating across diverse teams and cultures, with a focus on clear communication and project delivery.
-- Beginner-level Dutch language proficiency.
+**Also comfortable with:** Angular · Spring Boot · GitLab CI · Jest/Mocha/JUnit · Grafana · REST & GraphQL API design
 
 ---
 
-### 📬 Connect with me
+### ✍️ Beyond code
 
-- [LinkedIn](https://www.linkedin.com/in/shanmugaperumal-s-b38493147)
-- [HackerRank](https://www.hackerrank.com/profile/shanmugaperumal1)
+I write — technical breakdowns and personal essays on [Medium](https://medium.com/@shanmugaperumal), and poetry in Tamil on [anubava-varigal](https://anubava-varigal.blogspot.com). Writing is how I think out loud, and it tends to make me a clearer communicator at work too.
 
 ---
 
-_Thank you for visiting my profile!_
+### 📈 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanmuga96&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmuga96&hide_border=true" alt="streak stats" height="165"/>
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by — always happy to talk shop, trade project ideas, or compare notes on mentoring devs.</i></p>
 
 <!---
 shanmuga96/shanmuga96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

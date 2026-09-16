@@ -43,7 +43,7 @@ What I actually enjoy, beyond shipping features:
 
 ### ✍️ Beyond code
 
-I write — technical breakdowns and personal essays on [Medium](https://medium.com/@shanmugaperumal), and poetry in Tamil on [anubava-varigal](https://anubava-varigal.blogspot.com). Writing is how I think out loud, and it tends to make me a clearer communicator at work too.
+I write — technical breakdowns and personal essays on [Medium](https://medium.com/@shanmugaperumal96), and poetry in Tamil on [anubava-varigal](https://anubava-varigal.blogspot.com). Writing is how I think out loud, and it tends to make me a clearer communicator at work too.
 
 ---
 

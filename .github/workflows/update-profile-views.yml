@@ -1,0 +1,42 @@
+name: Update Profile Views Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get repository view count
+        id: views
+        run: |
+          VIEWS=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/repos/shanmuga96/shanmuga96/traffic/views" \
+            | jq '.views | map(.count) | add // 0')
+          echo "count=$VIEWS" >> $GITHUB_OUTPUT
+
+      - name: Update README badge
+        env:
+          VIEW_COUNT: ${{ steps.views.outputs.count }}
+        run: |
+          sed -i "s|Profile%20views-[0-9]*-blue|Profile%20views-${VIEW_COUNT}-blue|g" README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update profile views badge"
+            git push
+          fi
